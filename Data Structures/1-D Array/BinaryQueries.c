@@ -1,3 +1,4 @@
+//https://www.hackerearth.com/submission/42415981/
 #include<stdio.h>
 #include <math.h>
  
